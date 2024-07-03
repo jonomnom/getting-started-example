@@ -87,8 +87,8 @@
         "implicitDependencies": []
       }
     },
-    "footer": {
-      "name": "footer",
+    "footer1123": {
+      "name": "footer1123",
       "type": "lib",
       "data": {
         "root": "packages/footer",
@@ -136,7 +136,7 @@
           }
         },
         "sourceRoot": "packages/footer",
-        "name": "footer",
+        "name": "footer1123",
         "tags": [
           "npm:public"
         ],
@@ -151,8 +151,8 @@
         "implicitDependencies": []
       }
     },
-    "header": {
-      "name": "header",
+    "header1123": {
+      "name": "header1123",
       "type": "lib",
       "data": {
         "root": "packages/header",
@@ -200,7 +200,7 @@
           }
         },
         "sourceRoot": "packages/header",
-        "name": "header",
+        "name": "header1123",
         "tags": [
           "npm:public"
         ],
@@ -13195,138 +13195,128 @@
         "source": "remixapp",
         "target": "npm:react-dom",
         "type": "static"
-      },
-      {
-        "source": "remixapp",
-        "target": "header",
-        "type": "static"
-      },
-      {
-        "source": "remixapp",
-        "target": "footer",
-        "type": "static"
       }
     ],
-    "footer": [
+    "footer1123": [
       {
-        "source": "footer",
+        "source": "footer1123",
         "target": "npm:rimraf",
         "type": "static"
       },
       {
-        "source": "footer",
+        "source": "footer1123",
         "target": "npm:@testing-library/react",
         "type": "static"
       },
       {
-        "source": "footer",
+        "source": "footer1123",
         "target": "npm:@types/jest",
         "type": "static"
       },
       {
-        "source": "footer",
+        "source": "footer1123",
         "target": "npm:@types/react",
         "type": "static"
       },
       {
-        "source": "footer",
+        "source": "footer1123",
         "target": "npm:jest",
         "type": "static"
       },
       {
-        "source": "footer",
+        "source": "footer1123",
         "target": "npm:react",
         "type": "static"
       },
       {
-        "source": "footer",
+        "source": "footer1123",
         "target": "npm:react-dom",
         "type": "static"
       },
       {
-        "source": "footer",
+        "source": "footer1123",
         "target": "npm:rollup",
         "type": "static"
       },
       {
-        "source": "footer",
+        "source": "footer1123",
         "target": "npm:rollup-plugin-typescript2",
         "type": "static"
       },
       {
-        "source": "footer",
+        "source": "footer1123",
         "target": "npm:ts-jest",
         "type": "static"
       },
       {
-        "source": "footer",
+        "source": "footer1123",
         "target": "npm:tslib",
         "type": "static"
       },
       {
-        "source": "footer",
+        "source": "footer1123",
         "target": "npm:typescript",
         "type": "static"
       }
     ],
-    "header": [
+    "header1123": [
       {
-        "source": "header",
+        "source": "header1123",
         "target": "npm:rimraf",
         "type": "static"
       },
       {
-        "source": "header",
+        "source": "header1123",
         "target": "npm:@testing-library/react",
         "type": "static"
       },
       {
-        "source": "header",
+        "source": "header1123",
         "target": "npm:@types/jest",
         "type": "static"
       },
       {
-        "source": "header",
+        "source": "header1123",
         "target": "npm:@types/react",
         "type": "static"
       },
       {
-        "source": "header",
+        "source": "header1123",
         "target": "npm:jest",
         "type": "static"
       },
       {
-        "source": "header",
+        "source": "header1123",
         "target": "npm:react",
         "type": "static"
       },
       {
-        "source": "header",
+        "source": "header1123",
         "target": "npm:react-dom",
         "type": "static"
       },
       {
-        "source": "header",
+        "source": "header1123",
         "target": "npm:rollup",
         "type": "static"
       },
       {
-        "source": "header",
+        "source": "header1123",
         "target": "npm:rollup-plugin-typescript2",
         "type": "static"
       },
       {
-        "source": "header",
+        "source": "header1123",
         "target": "npm:ts-jest",
         "type": "static"
       },
       {
-        "source": "header",
+        "source": "header1123",
         "target": "npm:tslib",
         "type": "static"
       },
       {
-        "source": "header",
+        "source": "header1123",
         "target": "npm:typescript",
         "type": "static"
       }

@@ -130,3 +130,20 @@
 [NX Daemon Server] - 2024-07-03T03:20:15.072Z - Done responding to the client handleContextFileData
 [NX Daemon Server] - 2024-07-03T03:20:15.072Z - Handled GET_CONTEXT_FILE_DATA. Handling time: 0. Response time: 1.
 [NX Daemon Server] - 2024-07-03T03:20:16.467Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-07-03T03:21:28.742Z - Started listening on: /tmp/4bf4f3b2ea99e1b120bf/d.sock
+[NX Daemon Server] - 2024-07-03T03:21:28.744Z - [WATCHER]: Subscribed to changes within: /home/jono/volmex/getting-started-example (native)
+[NX Daemon Server] - 2024-07-03T03:21:28.752Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-07-03T03:21:28.753Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-07-03T03:21:28.754Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-07-03T03:21:28.755Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-07-03T03:21:28.763Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-03T03:21:28.763Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-03T03:21:28.763Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-03T03:21:28.845Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-07-03T03:21:28.846Z - Time taken for 'total for creating and serializing project graph' 90.30985000729561ms
+[NX Daemon Server] - 2024-07-03T03:21:28.847Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-07-03T03:21:28.847Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 91. Response time: 2.
+[NX Daemon Server] - 2024-07-03T03:21:28.851Z - [REQUEST]: Responding to the client. handleContextFileData
+[NX Daemon Server] - 2024-07-03T03:21:28.851Z - Done responding to the client handleContextFileData
+[NX Daemon Server] - 2024-07-03T03:21:28.851Z - Handled GET_CONTEXT_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-07-03T03:21:30.302Z - Closed a connection. Number of open connections: 0
