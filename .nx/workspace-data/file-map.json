@@ -13,24 +13,24 @@
         "hash": "6777609937844183308"
       },
       {
-        "file": "package-lock.json",
-        "hash": "443995829057691885"
-      },
-      {
-        "file": "package.json",
-        "hash": "12544169868480153629"
+        "file": "lerna.json",
+        "hash": "2996768005009100983"
       },
       {
         "file": ".gitignore",
         "hash": "1506074105630320832"
       },
       {
+        "file": "package-lock.json",
+        "hash": "443995829057691885"
+      },
+      {
         "file": "lerna-debug.log",
         "hash": "3325583792073813877"
       },
       {
-        "file": "lerna.json",
-        "hash": "7198147533951132553"
+        "file": "package.json",
+        "hash": "12544169868480153629"
       },
       {
         "file": "nx.json",
@@ -45,11 +45,11 @@
         },
         {
           "file": "packages/header/package-lock.json",
-          "hash": "10366120587622954603"
+          "hash": "16619572938770682684"
         },
         {
           "file": "packages/header/package.json",
-          "hash": "13556705164449662400",
+          "hash": "16395884268408266981",
           "deps": [
             "npm:rimraf",
             "npm:@testing-library/react",
@@ -101,11 +101,11 @@
         },
         {
           "file": "packages/footer/package-lock.json",
-          "hash": "4508986197388938605"
+          "hash": "2483345941274573779"
         },
         {
           "file": "packages/footer/package.json",
-          "hash": "12227260768666678902",
+          "hash": "18064199824622993358",
           "deps": [
             "npm:rimraf",
             "npm:@testing-library/react",

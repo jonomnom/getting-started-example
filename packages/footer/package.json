@@ -1,5 +1,5 @@
 {
-  "name": "footer",
+  "name": "footer1123",
   "version": "0.0.3",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -22,5 +22,6 @@
   },
   "devDependencies": {
     "rimraf": "^3.0.2"
-  }
+  },
+  "gitHead": "e1e3e8d89647e3dd2768af922c3160b5cbcd32cf"
 }
