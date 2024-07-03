@@ -9,147 +9,35 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": ".gitignore",
-        "hash": "1506074105630320832"
-      },
-      {
-        "file": "README.md",
-        "hash": "6777609937844183308"
-      },
-      {
         "file": "lerna-debug.log",
         "hash": "3325583792073813877"
       },
       {
         "file": "lerna.json",
-        "hash": "2996768005009100983"
+        "hash": "5714924738772735104"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "16181032413558006711"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "1506074105630320832"
+      },
+      {
+        "file": "package.json",
+        "hash": "12544169868480153629"
       },
       {
         "file": "nx.json",
         "hash": "696142436754191486"
       },
       {
-        "file": "package-lock.json",
-        "hash": "1184502610789908569"
-      },
-      {
-        "file": "package.json",
-        "hash": "12544169868480153629"
+        "file": "README.md",
+        "hash": "6777609937844183308"
       }
     ],
     "projectFileMap": {
-      "footer1123": [
-        {
-          "file": "packages/footer/jest.config.js",
-          "hash": "9105608488111214761"
-        },
-        {
-          "file": "packages/footer/package-lock.json",
-          "hash": "2483345941274573779"
-        },
-        {
-          "file": "packages/footer/package.json",
-          "hash": "10465483012732481347",
-          "deps": [
-            "npm:rimraf",
-            "npm:@testing-library/react",
-            "npm:@types/jest",
-            "npm:@types/react",
-            "npm:jest",
-            "npm:react",
-            "npm:react-dom",
-            "npm:rollup",
-            "npm:rollup-plugin-typescript2",
-            "npm:ts-jest",
-            "npm:tslib",
-            "npm:typescript"
-          ]
-        },
-        {
-          "file": "packages/footer/rollup.config.js",
-          "hash": "6912526672139817175"
-        },
-        {
-          "file": "packages/footer/src/Footer.spec.tsx",
-          "hash": "12732654578629420117"
-        },
-        {
-          "file": "packages/footer/src/Footer.tsx",
-          "hash": "8567564190578681646"
-        },
-        {
-          "file": "packages/footer/src/index.tsx",
-          "hash": "17291243671097352049"
-        },
-        {
-          "file": "packages/footer/tsconfig.json",
-          "hash": "16510780263080192750"
-        },
-        {
-          "file": "packages/footer/tsconfig.lib.json",
-          "hash": "12065603132550339980"
-        },
-        {
-          "file": "packages/footer/tsconfig.spec.json",
-          "hash": "6512608057909581835"
-        }
-      ],
-      "header1123": [
-        {
-          "file": "packages/header/jest.config.js",
-          "hash": "9105608488111214761"
-        },
-        {
-          "file": "packages/header/package-lock.json",
-          "hash": "16619572938770682684"
-        },
-        {
-          "file": "packages/header/package.json",
-          "hash": "18211327353149584687",
-          "deps": [
-            "npm:rimraf",
-            "npm:@testing-library/react",
-            "npm:@types/jest",
-            "npm:@types/react",
-            "npm:jest",
-            "npm:react",
-            "npm:react-dom",
-            "npm:rollup",
-            "npm:rollup-plugin-typescript2",
-            "npm:ts-jest",
-            "npm:tslib",
-            "npm:typescript"
-          ]
-        },
-        {
-          "file": "packages/header/rollup.config.js",
-          "hash": "6912526672139817175"
-        },
-        {
-          "file": "packages/header/src/Header.spec.tsx",
-          "hash": "9207668947890705564"
-        },
-        {
-          "file": "packages/header/src/Header.tsx",
-          "hash": "5609931041870356172"
-        },
-        {
-          "file": "packages/header/src/index.tsx",
-          "hash": "3971734459873567751"
-        },
-        {
-          "file": "packages/header/tsconfig.json",
-          "hash": "16510780263080192750"
-        },
-        {
-          "file": "packages/header/tsconfig.lib.json",
-          "hash": "12065603132550339980"
-        },
-        {
-          "file": "packages/header/tsconfig.spec.json",
-          "hash": "6512608057909581835"
-        }
-      ],
       "remixapp": [
         {
           "file": "packages/remixapp/.eslintrc",
@@ -218,6 +106,118 @@
         {
           "file": "packages/remixapp/tsconfig.json",
           "hash": "14902678922836432892"
+        }
+      ],
+      "header1123": [
+        {
+          "file": "packages/header/jest.config.js",
+          "hash": "9105608488111214761"
+        },
+        {
+          "file": "packages/header/package-lock.json",
+          "hash": "12817929499206876941"
+        },
+        {
+          "file": "packages/header/package.json",
+          "hash": "11770286867707147870",
+          "deps": [
+            "npm:rimraf",
+            "npm:@testing-library/react",
+            "npm:@types/jest",
+            "npm:@types/react",
+            "npm:jest",
+            "npm:react",
+            "npm:react-dom",
+            "npm:rollup",
+            "npm:rollup-plugin-typescript2",
+            "npm:ts-jest",
+            "npm:tslib",
+            "npm:typescript"
+          ]
+        },
+        {
+          "file": "packages/header/rollup.config.js",
+          "hash": "6912526672139817175"
+        },
+        {
+          "file": "packages/header/src/Header.spec.tsx",
+          "hash": "9207668947890705564"
+        },
+        {
+          "file": "packages/header/src/Header.tsx",
+          "hash": "5609931041870356172"
+        },
+        {
+          "file": "packages/header/src/index.tsx",
+          "hash": "3971734459873567751"
+        },
+        {
+          "file": "packages/header/tsconfig.json",
+          "hash": "16510780263080192750"
+        },
+        {
+          "file": "packages/header/tsconfig.lib.json",
+          "hash": "12065603132550339980"
+        },
+        {
+          "file": "packages/header/tsconfig.spec.json",
+          "hash": "6512608057909581835"
+        }
+      ],
+      "footer1123": [
+        {
+          "file": "packages/footer/jest.config.js",
+          "hash": "9105608488111214761"
+        },
+        {
+          "file": "packages/footer/package-lock.json",
+          "hash": "8561615784916261621"
+        },
+        {
+          "file": "packages/footer/package.json",
+          "hash": "10838660338587589013",
+          "deps": [
+            "npm:rimraf",
+            "npm:@testing-library/react",
+            "npm:@types/jest",
+            "npm:@types/react",
+            "npm:jest",
+            "npm:react",
+            "npm:react-dom",
+            "npm:rollup",
+            "npm:rollup-plugin-typescript2",
+            "npm:ts-jest",
+            "npm:tslib",
+            "npm:typescript"
+          ]
+        },
+        {
+          "file": "packages/footer/rollup.config.js",
+          "hash": "6912526672139817175"
+        },
+        {
+          "file": "packages/footer/src/Footer.spec.tsx",
+          "hash": "12732654578629420117"
+        },
+        {
+          "file": "packages/footer/src/Footer.tsx",
+          "hash": "16798379732745947795"
+        },
+        {
+          "file": "packages/footer/src/index.tsx",
+          "hash": "17291243671097352049"
+        },
+        {
+          "file": "packages/footer/tsconfig.json",
+          "hash": "16510780263080192750"
+        },
+        {
+          "file": "packages/footer/tsconfig.lib.json",
+          "hash": "12065603132550339980"
+        },
+        {
+          "file": "packages/footer/tsconfig.spec.json",
+          "hash": "6512608057909581835"
         }
       ]
     }
