@@ -9,32 +9,32 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": "lerna-debug.log",
-        "hash": "3325583792073813877"
+        "file": "README.md",
+        "hash": "6777609937844183308"
       },
       {
-        "file": "nx.json",
-        "hash": "696142436754191486"
+        "file": "package-lock.json",
+        "hash": "443995829057691885"
+      },
+      {
+        "file": "package.json",
+        "hash": "12544169868480153629"
       },
       {
         "file": ".gitignore",
         "hash": "1506074105630320832"
       },
       {
+        "file": "lerna-debug.log",
+        "hash": "3325583792073813877"
+      },
+      {
         "file": "lerna.json",
-        "hash": "14590723203244636808"
+        "hash": "7198147533951132553"
       },
       {
-        "file": "package-lock.json",
-        "hash": "13492536592773896818"
-      },
-      {
-        "file": "README.md",
-        "hash": "6777609937844183308"
-      },
-      {
-        "file": "package.json",
-        "hash": "12544169868480153629"
+        "file": "nx.json",
+        "hash": "696142436754191486"
       }
     ],
     "projectFileMap": {
@@ -45,11 +45,11 @@
         },
         {
           "file": "packages/header/package-lock.json",
-          "hash": "13485762911034948547"
+          "hash": "10366120587622954603"
         },
         {
           "file": "packages/header/package.json",
-          "hash": "6111355740224339882",
+          "hash": "13556705164449662400",
           "deps": [
             "npm:rimraf",
             "npm:@testing-library/react",
@@ -101,11 +101,11 @@
         },
         {
           "file": "packages/footer/package-lock.json",
-          "hash": "8283212991817260329"
+          "hash": "4508986197388938605"
         },
         {
           "file": "packages/footer/package.json",
-          "hash": "6086658674862823136",
+          "hash": "12227260768666678902",
           "deps": [
             "npm:rimraf",
             "npm:@testing-library/react",
@@ -131,7 +131,7 @@
         },
         {
           "file": "packages/footer/src/Footer.tsx",
-          "hash": "14949167762668216002"
+          "hash": "8567564190578681646"
         },
         {
           "file": "packages/footer/src/index.tsx",
